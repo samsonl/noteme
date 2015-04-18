@@ -1,0 +1,1 @@
+NoteMe can subscribe to a JMS topic and pop up a windows forms GUI when a message arrives, useful for monitoring system activity.
